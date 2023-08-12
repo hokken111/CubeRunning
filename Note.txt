@@ -1,0 +1,3 @@
+*untuk menjalankan game cukup dengan klik 2x pada file Cube Running.exe
+*untuk bisa menjalankan game , file UnityPlayer.dll harus berada 
+di folder yang sama dengan Cube Running.exe 
